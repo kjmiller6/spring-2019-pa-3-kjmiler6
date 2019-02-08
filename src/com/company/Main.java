@@ -72,6 +72,6 @@ public class Main {
                 System.out.print(i * j + " ");
             }
             System.out.println("");
-        }
+        } // test
     }
 }
